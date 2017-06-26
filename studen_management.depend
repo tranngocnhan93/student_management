@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498414717 source:d:\1. project\codeblocks\studen_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
